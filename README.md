@@ -1,1 +1,1 @@
-# ai-photo-generator
+# AI Photo Generator
